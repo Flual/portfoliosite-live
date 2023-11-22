@@ -1,11 +1,18 @@
 import './index.css';
 import AnimCursor from './components/AnimCursor';
 import { Outlet, Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 function Layout() {
   return (
-    <>
 
+    
+    <>
+      <div className="App">
+      <Helmet>
+        <title>Flual's Webservices</title>
+      </Helmet>
+    </div>
       <AnimCursor />
       <nav id="routinglinks">
         <ul>
