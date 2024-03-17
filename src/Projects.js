@@ -7,8 +7,8 @@ function Projects() {
 
         <div className="aboutmecontent" id="aboutmecontent">
             <p>
-              Sie können mein erstes größeres Projekt sein! <br />
-              Zur Veranscahulichung meiner kleineren Projekte können Sie den Link zu minem Githubprofil folgen: <br />
+              <a href="https://github.com/Flual/Quizgame">Quizgame</a>  <br />
+              <a href="https://github.com/Flual/Rock-Paper-Scissor-Game">Rock-Paper-Scissor</a><br />
               <a target='_blank' href='https://github.com/Flual'>Github</a>
             </p>
         </div>

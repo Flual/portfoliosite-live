@@ -61,9 +61,9 @@ a:hover {
   /* border: solid 1px blue; */
   width: 1000px;
   position: absolute;
-  margin-left: 32rem;
+  margin-left: 28rem;
   height: 584px;
-  margin-top: -7rem;
+  margin-top: 1rem;
   text-align: center;
   
 }
@@ -101,7 +101,7 @@ a:hover {
   transition: 0.8s ease;
   font-size: 20pt;
   margin-left: 0.8rem;
-  margin-top: -16.75rem;
+  margin-top: -16.4rem;
   background-color: black;
 }
 

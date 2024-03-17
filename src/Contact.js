@@ -11,7 +11,7 @@ function Contact() {
                 <p>
                   E-Mail: Flo.Stangl@gmx.at <br/>
                   Telefon: +43 664/9216465 <br/>
-                  Verfügbar: <br/> Mon-Thur. 07:30-16:00 <br/> Fri: 08:00-13:00 <br/> Und nach Vereinbarung
+                  Verfügbar: <br/> Mon-Don. 07:30-16:00 <br/> Fr: 08:00-13:00 <br/> Und nach Vereinbarung
 
                 </p>
 
