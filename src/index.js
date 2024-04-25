@@ -8,7 +8,7 @@ import Aboutme from './Aboutme';
 import Contact from './Contact';
 import Skills from './Skills';
 import Projects from './Projects';
-import bg from './img/bg.gif';
+import bg from './img/bg.jpg';
 import NotFound from './NoPage';
 
 
@@ -16,6 +16,7 @@ import NotFound from './NoPage';
 export default function App() {
   return (
     <div className="backgroundimg" >
+
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Layout />}>

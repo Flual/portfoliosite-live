@@ -10,10 +10,11 @@ function Layout() {
     <>
       <div className="App">
       <Helmet>
-        <title>Flual's Webservices</title>
+        <title>Flual's Homepage</title>
       </Helmet>
     </div>
       <AnimCursor />
+    
       <nav id="routinglinks">
         <ul>
           <li>
@@ -37,9 +38,9 @@ function Layout() {
         </ul>
 
 
-
+      
       </nav>
-
+      <div id="routingbg"></div>
       <Outlet />
 
 
